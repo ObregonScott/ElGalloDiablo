@@ -59,20 +59,8 @@ footer {
     flex-wrap: wrap;
     width: 100%;
   }
-  
-  footer h2 {
-    color: #024e76;
-    font-size: 30px;
-    margin: 0;
-  }
-  
-  footer div {
-    line-height: 1.5;
-    text-align: right;
-  }
-  
-  footer a {
-    color: #024e76;
+  footer h1 {
+      background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
   }
   /* END FOOTER STYLES */
 
