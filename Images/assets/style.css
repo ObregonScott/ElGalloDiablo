@@ -20,9 +20,8 @@ header {
   header h1 {
     font-weight: bold;
     margin: 15px;
-    font-size: 75px;
+    font-size: 36px;
     color: black;
-    font-style: italic;
   }
   
   header a {
@@ -46,13 +45,12 @@ header {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 1.55vw;
-    font-style: italic;
   }
   
   /* HEADER / NAVBAR STYLES END */
   /* FOOTER STYLES START */
 footer {
-    background: #cec5ab8e;
+    background: #fce138;
     padding: 40px 35px;
     display: flex;
     justify-content: space-between;
@@ -94,22 +92,11 @@ footer {
     justify-content: space-between;
     
   }
-  .bio h1 {
-    text-decoration: underline;
-    font-style: italic;
-    font-size: 50px;
-    color: black;
-  }
   .bio-image img{
     border-radius: 50%;
     width: 400px;
     height: 400px;
     display: flex;
-  }
-  .portrait-title h3 {
-    font-style: italic;
-    font-size: 35px;
-    color: black;
   }
   .bio-info {
     width: 30%;
@@ -147,18 +134,6 @@ footer {
     align-items: center;
     justify-content: space-between;
   }
-  .experience h1 {
-    text-decoration: underline;
-    font-style: italic;
-    font-size: 50px;
-    color: black;
-  }
-  .exp-image img{
-    border-radius: 25%;
-    width: 400px;
-    height: 400px;
-    display: flex;
-  }
   .exp-work {
     width: 30%;
     text-align: left;
@@ -195,31 +170,8 @@ footer {
   align-items: center;
   justify-content: space-between;
 }
-.projects h1 {
-  text-decoration: underline;
-  font-style: italic;
-  font-size: 50px;
-  color: black;
-}
     /* Projects END */
-    /* Contact */
-    .contact {
-      background-color: #cec5ab;
-      background-size: cover;
-      background-position: center;
-      width: 100%;
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: space-between;
-    }
-    .contact h1 {
-      text-decoration: underline;
-      font-style: italic;
-      font-size: 50px;
-      color: black;
-    }
-    /* Contact END */
+
     /* Utilities */
     .flex-row {
       display: flex;
