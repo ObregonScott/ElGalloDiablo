@@ -15,4 +15,9 @@ This Website displays my extensive knowledge of skills, past/future projects, se
 <br />
 
 ##Languages Used
+- html
+- css
 <br />
+
+##Author
+Scott Obregon
