@@ -1,0 +1,22 @@
+{
+  "name": "elgallodiablo",
+  "version": "1.0.0",
+  "description": "![A_GalloDiablo_Creation](https://user-images.githubusercontent.com/98435396/160311004-7eb39f02-c139-4de0-9548-92bfe477a875.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObregonScott/ElGalloDiablo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ObregonScott/ElGalloDiablo/issues"
+  },
+  "homepage": "https://github.com/ObregonScott/ElGalloDiablo#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
